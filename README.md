@@ -1,2 +1,2 @@
-The Odin Project - Foundation Course
+The Odin Project - Foundation Course<br />
 Project: Recipes
